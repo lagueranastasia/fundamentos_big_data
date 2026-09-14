@@ -1,0 +1,8 @@
+
+services:
+  pyspark:
+    build: ./docker
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./notebooks:/home/jovyan/work

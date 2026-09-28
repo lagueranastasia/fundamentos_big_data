@@ -1,4 +1,4 @@
-# Fundamentos Big Data
+# Fundamentos de Big Data
 
 Entorno de trabajo para PySpark utilizando Docker y Jupyter Notebook.
 
